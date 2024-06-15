@@ -1,0 +1,15 @@
+{
+    "name": "DiscoSciencePackGalore",
+    "author": "Xudmud",
+    "version": "0.0.1",
+    "factorio_version": "1.1",
+    "contact": "Discord: xudmud",
+    "title": "Disco Science in Science Pack Galore",
+    "description": "Adds support for the Science Pack Galore packs to any labs that Disco Science works with.",
+    "dependencies": [
+        "DiscoScience",
+        "? SciencePackGalore",
+        "? SciencePackGaloreForked",
+        "? SciencePackGaloreForkProdFix"
+    ]
+}
